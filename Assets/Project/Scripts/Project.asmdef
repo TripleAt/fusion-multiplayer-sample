@@ -1,0 +1,21 @@
+{
+    "name": "Project",
+    "rootNamespace": "",
+    "references": [
+        "Fusion.Unity",
+        "UniTask",
+        "Unity.StarterAssets",
+        "Project.Animation",
+        "Unity.InputSystem",
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
