@@ -2,9 +2,8 @@
 
 Photon Fusion 連携を前提に作成した Unity サンプルプロジェクトです。
 
-この公開版リポジトリには Photon Fusion 本体および Photon 関連バイナリは含めていません。Photon Fusion はライセンス上の都合で再配布していないため、必要な場合は各自で正規の手順で導入してください。
-
-`Assets/Project/Sample1` と `Assets/Project/Sample2` は残しています。Photon 関連スクリプトは同梱していないため、シーンやプレハブには Missing Script が含まれる状態ですが、Photon 前提のサンプル構成が分かるようにあえて残しています。
+この公開版リポジトリには Photon Fusion 本体および Photon 関連バイナリは含めていません。
+Photon Fusion はライセンス上の都合で再配布していないため、必要な場合は各自で正規の手順で導入してください。
 
 ## Repository Policy
 
