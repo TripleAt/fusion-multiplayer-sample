@@ -45,8 +45,6 @@ Photon Fusion はライセンス上の都合で再配布していないため、
   - MIT License
 - UniTask (`com.cysharp.unitask`)
   - MIT License
-- VContainer (`jp.hadashikick.vcontainer`)
-  - MIT License
 - ParrelSync (`com.veriorpies.parrelsync`)
   - MIT License
 - NuGetForUnity (`com.github-glitchenzo.nugetforunity`)
@@ -56,7 +54,13 @@ Photon Fusion はこのリポジトリに同梱していないため、本リポ
 
 ## Setup
 
-1. Unity 6 系でプロジェクトを開きます。
-2. `Packages/manifest.json` に定義された依存パッケージを取得します。
-3. Photon Fusion を使う場合は、各自で正規に導入してください。
-4. `Sample1` / `Sample2` は Missing Script を含むため、必要に応じて Photon 側のスクリプトを差し戻して利用してください。
+1. Unity 6.0,53f1 でプロジェクトを開きます
+2. 一度セーフモードで開き
+3. Exit Safe Modeを選択
+4. 次のパッケージをインポート
+・photon-fusion-2.0.9-stable-1566.unitypackage
+・fusion-simple-kcc-2.0.15.unitypackage
+
+5. それぞれインポートし一度Unityを閉じ再度Unityを再起動
+
+特にアタッチし直しは必要ないと思いますが `Sample1` / `Sample2` は Missing Script を含むため、必要に応じて Photon 側のスクリプトを差し戻して利用してください。
