@@ -31,16 +31,12 @@ Photon Fusion はライセンス上の都合で再配布していないため、
 
 ## License Notes
 
-このリポジトリ内の独自コードと設定ファイルは、特記がない限り同梱の `LICENSE` に従います。
+このリポジトリ自体には独自ライセンスを設定していません。
 
-ただし、同梱アセットおよび依存パッケージは、それぞれの元ライセンスに従います。
+同梱アセットおよび依存パッケージは、それぞれの配布元ライセンス・利用規約に従ってください。
 
 - Unity Starter Assets (`Assets/Starter Assets`)
-  - Unity 提供アセットです。このリポジトリ独自のライセンスでは再許諾しません。利用・再配布時は Unity 側の利用条件を確認してください。
-- Mixamo animation assets (`Assets/MixamoAnim`)
-  - Adobe Mixamo 由来アセットです。利用条件は配布元の規約を確認してください。
-- RetroWeaponPack_V1 (`Assets/RetroWeaponPack_V1`)
-  - 配布元アセットの利用条件に従ってください。このリポジトリ独自のライセンスでは再許諾しません。
+  - Unity 提供アセットです。利用・再配布時は Unity 側の利用条件を確認してください。
 - R3 (`com.cysharp.r3`)
   - MIT License
 - UniTask (`com.cysharp.unitask`)
